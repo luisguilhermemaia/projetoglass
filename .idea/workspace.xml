@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f433ec-9f56-427f-b558-4fe97023c6b2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_fonts/bubblegum-sans-regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_fonts/computer-font.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/audio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/botao-enviar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/contato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/det-bateria.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/det-camera.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/det-tela.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/det-touch.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/especificacoes-02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/especificacoes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/fotos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/galeria-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/galeria-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/galeria-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/galeria-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/galeria-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/galeria-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-esquema-marcado.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-esquema.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-logo-grd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-logo-med.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-logo-peq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-gig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-grd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-med.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-peq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-quadro-homem-mulher.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-quadro-homem.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/glass-quadro-mulher.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/icone-contato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/icone-endereco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/icone-mensagem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/icone-pagamento.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/jornal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/lampada-acesa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/lampada-apagada.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/lampada-quebrada.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/logo-google-gig.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/mao.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/multimidia.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/radio-tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/video-mini01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/video-mini02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/video-mini03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_imagens/video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_interface/00-divisoes-semanticas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_interface/01-index.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_interface/02-specs.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_interface/03-fotos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_interface/04-multimidia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_interface/05-fale-conosco.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/projetoglass.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_css/estilo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_css/form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_css/fotos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_css/media.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_css/specs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_javascript/audio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_javascript/funcoes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_textos/fale-conosco-txt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_textos/fotos-txt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_textos/google-glass-txt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_textos/index-txt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_textos/multimidia-txt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_textos/specs-txt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fale-conosco.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fotos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/google-glass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multimidia.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/specs.html" />
+    </list>
+    <ignored path="projetoglass.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="projetoglass" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.022156574">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="984" />
+    <option name="width" value="296" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projetoglass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projetoglass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projetoglass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f433ec-9f56-427f-b558-4fe97023c6b2" name="Default" comment="" />
+      <created>1452089976362</created>
+      <option name="number" value="Default" />
+      <updated>1452089976362</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="984" y="0" width="296" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3244898" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022156574">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+*.project
+*.idea
+ehthumbs.db
+Icon?
+Thumbs.db
+nbproject
+!.gitignore
+/.buildpath
+/.settings
+/*.sublime-project
+/*.sublime-workspace
