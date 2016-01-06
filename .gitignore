@@ -1,5 +1,5 @@
 *.project
-*.idea
+.idea/*
 ehthumbs.db
 Icon?
 Thumbs.db
